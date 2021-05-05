@@ -1,1 +1,1 @@
-# farbig_bilder_48_48
+# Demo Daten für Kochbuch und Module
